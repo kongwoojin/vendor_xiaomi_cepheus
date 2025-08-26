@@ -384,7 +384,6 @@ PRODUCT_PACKAGES += \
     libqcvirt \
     libshoebox \
     vendor.qti.hardware.audiohalext@1.0 \
-    vendor.qti.hardware.bluetooth_audio@2.0 \
     com.qti.sensor.imx481 \
     com.qti.sensor.imx586 \
     com.qti.sensor.s5k3m5 \
@@ -670,8 +669,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.gnss@4.0 \
     vendor.qti.hardware.alarm@1.0 \
     vendor.qti.hardware.bluetooth_sar@1.0 \
-    vendor.qti.hardware.btconfigstore@1.0 \
-    vendor.qti.hardware.btconfigstore@2.0 \
     vendor.qti.hardware.cacert@1.0 \
     vendor.qti.hardware.data.cne.internal.api@1.0 \
     vendor.qti.hardware.data.cne.internal.constants@1.0 \
